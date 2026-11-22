@@ -57,18 +57,18 @@ IDEORA is a web app where you enter a business idea, an area and an optional bud
 ### Installation
 
 ```bash
-# 1. Clone the repository
+1. Clone the repository
 git clone https://github.com/noorein456/Ideora.git
 cd Ideora
 
-# 2. Install dependencies
+2. Install dependencies
 pnpm install
 
-# 3. Add your environment variables
+3. Add your environment variables
 #    Create a file named .env.local in the project root with:
 #    SERPAPI_API_KEY=your_serpapi_key_here
 
-# 4. Start the development server
+4. Start the development server
 pnpm dev
 ```
 
@@ -81,7 +81,6 @@ Open [http://localhost:3000](http://localhost:3000) in your browser.
 | `SERPAPI_API_KEY` | Yes | Your SerpApi key, used for all market data |
 | `NEXT_PUBLIC_SITE_URL` | No | Public site URL (defaults to `http://localhost:3000`) |
 
-> **Never commit your `.env.local` file or API keys.**
 
 ---
 
