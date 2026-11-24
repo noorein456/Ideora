@@ -1,3 +1,7 @@
+<img width="1600" height="853" alt="96de2536-5127-4543-85ed-e170eb9221c4" src="https://github.com/user-attachments/assets/b8c4e4c3-a444-46c5-a5b7-8b2157820d4e" />
+<img width="1568" height="897" alt="33912a7d-870c-4072-8490-c9ecf1757f0f" src="https://github.com/user-attachments/assets/33829b6d-4f69-4644-b891-a8c85c878e15" />
+<img width="736" height="756" alt="5f6db185-b38b-4bb6-b8e2-91830be06f9e" src="https://github.com/user-attachments/assets/f54cc375-bffd-4aa7-88f3-df1d8c163185" />
+
 # IDEORA
 
 **Validate a business idea with live market data before you spend a rupee.**
